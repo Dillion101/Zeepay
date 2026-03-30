@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "company": "Total Energies",
+    "jobTitle": "Frontend Engineer",
+    "dateApplied": "2024-03-01",
+    "jobLink": "https://total.energy.com",
+    "status": "Interview"
+  },
+  {
+    "id": "2",
+    "company": "KPMG",
+    "jobTitle": "Software Engineer",
+    "dateApplied": "2024-03-05",
+    "jobLink": "https://kpmg.com/jobs",
+    "status": "Pending"
+  },
+  {
+    "id": "3",
+    "company": "Hubtel",
+    "jobTitle": "Full Stack Developer",
+    "dateApplied": "2024-03-08",
+    "jobLink": "https://hubtel.so/careers",
+    "status": "Rejected"
+  },
+  {
+    "id": "4",
+    "company": "Paix",
+    "jobTitle": "Network Engineer",
+    "dateApplied": "2024-03-10",
+    "jobLink": "https://paixgh.com/careers",
+    "status": "Offer"
+  },
+  {
+    "id": "5",
+    "company": "Korle Bu",
+    "jobTitle": "Network Engineer",
+    "dateApplied": "2024-03-12",
+    "jobLink": "https://kbhospital.app/careers",
+    "status": "Pending"
+  },
+  {
+    "id": "6",
+    "company": "GTBank",
+    "jobTitle": "UI Engineer",
+    "dateApplied": "2024-03-14",
+    "jobLink": "https://gtbank.com/careers",
+    "status": "Interview"
+  },
+  {
+    "id": "7",
+    "company": "pwc",
+    "jobTitle": "Backend Developer",
+    "dateApplied": "2024-03-15",
+    "jobLink": "https://pwcgh.com/careers",
+    "status": "Rejected"
+  },
+  {
+    "id": "8",
+    "company": "Wave",
+    "jobTitle": "Software Engineer II",
+    "dateApplied": "2024-03-17",
+    "jobLink": "https://careers.wave.com",
+    "status": "Pending"
+  },
+  {
+    "id": "9",
+    "company": "Telecel",
+    "jobTitle": "Frontend Developer",
+    "dateApplied": "2024-03-18",
+    "jobLink": "https://telecelgh.com/jobs",
+    "status": "Interview"
+  },
+  {
+    "id": "10",
+    "company": "MTN",
+    "jobTitle": "Developer Advocate",
+    "dateApplied": "2024-03-20",
+    "jobLink": "https://mtngh.com/careers",
+    "status": "Offer"
+  }
+]
